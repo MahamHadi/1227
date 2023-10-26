@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<style type="text/css">
+	.container
+	{
+		display: flex;
+	}
+	.margin
+	{
+		margin-top: 100px;
+	}
+	.profile
+	{
+		display: flex;
+		justify-content: center;
+	}
+	img
+	{
+		width: 200px;
+		height: 200px;
+		border-radius: 200px;
+
+	}
+	.content
+	{
+		padding: 10px;
+	}
+	.username .name
+	{
+		font-size: ;
+	}
+	.follow .options
+	{
+		width: 500px;
+		display: flex;
+		gap: 10px;
+	}
+	.options span
+	{
+		border:1px solid silver;
+		padding: 10px;
+		gap: 10px;
+		border-radius: 2px;
+	}
+
+</style>
+<body>
+	<div class="container">
+<div class="aside">
+	<div class="profile">
+		<img src="capture.JPG">
+			
+
+	</div>
+	<div class="container">
+		<h1> Maham Hadi</h1>
+
+		
+	</div>
+
+	
+</div>
+<div class="content margin" >
+	<div class="options">
+		<span>overview</span>
+		<span>Repository</span>
+		<span>packages</span>
+		<span>projects</span>
+		<span>star</span>
+	</div>
+	<div class="message">
+		<p>
+			Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+			Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+
+Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+
+
+
+		</p>
+	</div>
+
+</div>
+	</div>
+
+</body>
+</html>
