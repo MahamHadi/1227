@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+	<title>New Tab</title>
+</head>
+<style type="text/css">
+	.margin
+	{
+		margin-top:150px;
+
+
+			font-family: segoi UI, Tahoma, sans-serif;
+	}
+	#margin
+	{
+		margin-left: 600px;
+
+	}
+	
+	input
+	{
+		border-radius: 29px;
+		height: 40px;
+		width: 600px;
+
+	}
+	input,
+input::placeholder {
+    font: 1.15rem/3 sans-serif;
+}
+	#circle
+	{
+		
+		margin-left: 300px;
+	}
+
+	#input
+	{
+		margin-top: -20px;
+		margin-right: 70px;
+	}
+	.circle
+	{
+		display: flex;
+		border-radius: 50px;
+		height: 50px;
+		width: 50px;
+		margin-top: 16px;
+		margin-left: 600px;
+		background-color: #b3cccc ;
+		<img class="circular--square" src="gmail.jpg" />
+		
+
+	}
+	
+	.circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; }
+
+	.circle2
+	{
+		display: flex;
+		border-radius: 50px;
+		height: 50px;
+		width: 50px;
+		margin-left: 700px;
+		margin-top:-50px;
+		background-color: #b3cccc ;
+		}
+	
+	.circle3
+	{
+		display: flex;
+		border-radius: 50px;
+		height: 50px;
+		width: 50px;
+		margin-left: 800px;
+		margin-top:-50px;
+		background-color: #b3cccc ;
+		}
+		.circle4
+	{
+		display: flex;
+		border-radius: 50px;
+		height: 50px;
+		width: 50px;
+		margin-left: 900px;
+		margin-top:-50px;
+		background-color: #b3cccc ;
+		}
+		
+	
+</style>
+<body>
+	
+	<div style="clear: both" align="center">
+		<font size="+5px" >
+			
+			
+    <font color="#4d79ff"><h1 style="float: left" id="margin" class="margin">G</h1></font>
+	<font color="#e60000"><h1 style="float: left" class="margin">o</h1></font>
+	<font color=" #ff9900"><h1 style="float: left" class="margin">o</h1></font>
+	<font color="#4d79ff"><h1 style="float: left" class="margin">g</h1></font>
+	<font color=" #00b33c"><h1 style="float: left" class="margin">l</h1></font>
+	<font color="#e60000"><h1 style="float: left" class="margin">e</h1></font>
+</font>
+
+<input type="search" name="" placeholder="Search Google or type URL" id="input" class="margin" >
+
+</div>
+
+<div class="circle "  ><img src="gmail.jpg" width="25px" height="25px" style="margin:12px"></div>
+<div class="circle2" ><img src="facebook.jpg" width="25px" height="25px" style="margin:12px"></div>
+<div class="circle3" ><img src="github.jpg" width="25px" height="25px" style="margin:12px"></div>
+<div class="circle4"><img src="plux.jpg" width="25px" height="25px" style="margin:12px"></div>
+
+<p style="text-align: left; margin-left: 38%;">Gmail &ensp; &ensp;&ensp; &ensp; Facebook
+ &ensp; &ensp;&ensp; &ensp; GitHub  &ensp; &ensp;&ensp; &ensp; Add shortcut
+</p>
+
+</body>
+</html>
